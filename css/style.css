@@ -1,0 +1,43 @@
+body {
+  text-align: center;
+  font-family: 'Arial';
+  font-size: 14px;
+  background-color: #d1d1d1;
+  color: #737373;
+}
+button {
+  color: #737373;
+}
+.MainTitle {
+  width: 70%;
+  font-size: 19px;
+  display: inline; 
+  float: auto; 
+}
+.MainText {
+  border-style: outset;
+  background-color: #FFFFFF;
+  width: 70%;
+  border-radius: 8px;
+  display: inline; 
+  float: left; 
+}
+.SecondText {
+  border-style: outset;
+  background-color: #FFFFFF;
+  width: 70%;
+  border-radius: 8px;
+  display: inline;
+  margin-top: 17px;
+  float: left;
+}
+.PageTOC {
+  font-size: 15px;
+  float: right; 
+  display: inline; 
+  margin-top: 17px;
+  width: 25%;
+  border-style: outset;
+  background-color: #FFFFFF;
+  border-radius: 8px;
+}
